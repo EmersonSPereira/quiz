@@ -1,5 +1,5 @@
 # super-quiz
-###Para acessar a aplicação click <a href="https://emersonspereira.github.io/quiz/">Super Quiz</a>
+## Para acessar a aplicação click <a href="https://emersonspereira.github.io/quiz/">Super Quiz</a>
 
 
 ## Project setup
